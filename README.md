@@ -13,8 +13,18 @@ It is open source under the Apache License 2.0 license so anyone can update it b
 * Make it so it automatically converts into a rpg maker command without needing tkoolbridge.
 * Somehow figure out how to detect the map id without needing to type it in.
 
+## How to build exe with pyinstaller.
+Make sure you have python installed in your system and use the command in terminal:
+```sh
+pip install pyinstaller
+```
+Put the .py and .ico into a seperate folder then open cmd in the folder and run:
+```sh
+pyinstaller --onefile --icon=EasyTransfer.ico EasyTransfer.py
+```
+
 ## Using the Py version
-Make sure you have python installed in your system and use the command in terminal.
+Make sure you have python installed in your system and use the command in terminal:
 ```sh
 pip install pywin32
 ```
