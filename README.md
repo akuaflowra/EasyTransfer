@@ -7,7 +7,7 @@ EasyTransfer is a python script for copying the x and y cords of an event and tu
   * http://suppy.bob.buttobi.net/tool/tb.html
   * https://u6.getuploader.com/yumenikkig/download/121
 
-It is open source under the Apache License 2.0 license so anyone can update it because I'm a beginner programmer in phython
+This script is open source under the Apache License 2.0 license so anyone can update it because I'm a beginner programmer in phython
 
 ### Suggestions for updates:
 * Make it so it automatically converts into a rpg maker command without needing tkoolbridge.
